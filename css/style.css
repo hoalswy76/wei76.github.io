@@ -1,0 +1,106 @@
+* {
+	font-family:'Microsoft JhengHei', "微軟正黑體", Arial, Helvetica, sans-serif;
+}
+
+.box1{
+	width: 1000px; height: 1006px
+}
+
+.box2{
+	width:1000px; height: 430px; padding: top:100px; right: 100px;
+}
+
+.box3{
+	width:1000px; height: 800px; 
+}
+
+.box3a{
+	width: 300px; height: 300px;
+}
+
+.box4{
+	width:1000px; height: 500px; 
+}
+
+
+#content{
+  width: 1000px; height: auto; margin: 0px auto; background-position: center; 
+}
+
+.album a{
+  background:url(img/oo4.png)center top no-repeat; display: block;
+  width: 250px; height: 250px; margin: 0px 0px 0px 0px;
+}
+
+.album a:hover{
+  background:url(img/oo4b.png)center top no-repeat; display: block;
+  width: 250px; height: 250px; margin: 0px 0px 0px 0px;
+}
+
+.album001 a{
+  background:  center top no-repeat;
+  width: 250px; height: 250px; margin: 0px 0px 0px 225px;
+}
+
+.album001 a:hover{
+  background: center top no-repeat;
+  width: 250px; height: 250px; margin: 0px 0px 0px 225px;
+}
+
+.album002 a{
+  background:center top no-repeat;
+  width: 250px; height: 250px; margin: 0px 0px 0px 225px;
+}
+
+.album002 a:hover{
+  background:center top no-repeat;
+  width: 250px; height: 250px; margin: 0px 0px 0px 225px;
+}
+
+.album003 a{
+  background:center top no-repeat;
+  width: 250px; height: 250px; margin: 0px 0px 0px 225px;
+}
+
+.album003 a:hover{
+  background:center top no-repeat;
+  width: 250px; height: 250px; margin: 0px 0px 0px 225px;
+}
+
+.album004 a{
+  background:center top no-repeat;
+  width: 250px; height: 250px; margin: 0px 0px 0px 225px;
+}
+
+.album004 a:hover{
+  background:center top no-repeat;
+  width: 250px; height: 250px; margin: 0px 0px 0px 225px;
+}
+
+.album005 a{
+  background:center top no-repeat;
+  width: 250px; height: 250px; margin: 0px 0px 0px 225px;
+}
+
+.album005 a:hover{
+  background:center top no-repeat;
+  width: 250px; height: 250px; margin: 0px 0px 0px 225px;
+}
+
+.album006 a{
+  background:center top no-repeat;
+  width: 250px; height: 250px; margin: 0px 0px 0px 225px;
+}
+
+.album006 a:hover{
+  background:center top no-repeat;
+  width: 250px; height: 250px; margin: 0px 0px 0px 225px;
+}
+
+.P{}
+
+
+.lt {float: left;}
+.rt {float: right;}
+
+.clear {clear: both;}
